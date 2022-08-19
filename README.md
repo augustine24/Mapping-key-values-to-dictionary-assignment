@@ -1,1 +1,1 @@
-This is an assignment I did on Coursera, the course was Programming in Python and here is the code I used to solve it. The assignment purpose was mapping key values to dictionaries in Python. Enjoy!
+This is an assignment I did on Coursera, the course was Programming in Python and here is the code I used to solve it. The assignment purpose was mapping key values to dictionaries in Python. The return of the code shows the corresponding aspects of a persons aspects such as name, and age. The code can be run through https://www.online-python.com/online_python_compiler Enjoy!
